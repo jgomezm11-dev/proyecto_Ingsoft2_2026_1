@@ -1,0 +1,11 @@
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\aplicacion\ClienteServicio.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\dominio\modelo\Cliente.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\dominio\modelo\ClienteEntity.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\dominio\repositorio\ClienteRepositorio.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\infraestructura\ClienteRecursos.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\infraestructura\dto\ClienteDto.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\clientes\infraestructura\persistencia\ClientePanache.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\common\filter\CorsFilter.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\common\infraestructure\ResponseApi.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\common\infraestructure\ResponseApiError.java
+C:\Users\Sala_\Downloads\quarkusgestiondocente-master\src\main\java\co\vinni\common\ValidationExceptionMapper.java

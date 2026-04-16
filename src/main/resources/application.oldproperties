@@ -1,0 +1,19 @@
+quarkus.http.port=8620
+
+quarkus.datasource.db-kind=h2
+quarkus.datasource.jdbc.url=jdbc:h2:mem:equiposdb
+
+quarkus.hibernate-orm.generation=drop-and-create
+# Tipo de base de datos
+quarkus.datasource.db-kind=postgresql
+
+# Usuario y contraseña
+quarkus.datasource.username=ulibdatosadmin
+quarkus.datasource.password=dmTDt3FZDhHlh5A1m7Yp16rxvdYW25Zy
+
+# URL JDBC (IMPORTANTE convertir formato)
+quarkus.datasource.jdbc.url=jdbc:postgresql://dpg-d6smqmchg0os73fainn0-a.oregon-postgres.render.com:5432/ulibdatosdb
+
+# Hibernate (opcional)
+quarkus.hibernate-orm.database.generation=update
+quarkus.hibernate-orm.log.sql=true
