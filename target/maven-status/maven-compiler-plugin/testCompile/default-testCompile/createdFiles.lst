@@ -1,2 +1,4 @@
-co\vinni\estudiantes\servicio\EstudianteServicioTest.class
-co\vinni\estudiantes\EstudianteRecursoTest.class
+co\johan\clientes\servicio\ClienteServicioTest.class
+co\johan\estudiantes\servicio\EstudianteServicioTest.class
+co\johan\estudiantes\EstudianteRecursoTest.class
+co\johan\clientes\ClienteRecursoTest.class

@@ -1,9 +1,0 @@
-co\vinni\clientes\dominio\repositorio\ClienteRepositorio.class
-co\vinni\clientes\dominio\modelo\Cliente.class
-co\vinni\clientes\aplicacion\ClienteServicio.class
-co\vinni\clientes\dominio\modelo\ClienteEntity$ClienteEntityBuilder.class
-co\vinni\clientes\infraestructura\dto\ClienteDto.class
-co\vinni\clientes\dominio\modelo\Cliente$ClienteBuilder.class
-co\vinni\clientes\dominio\modelo\ClienteEntity.class
-co\vinni\clientes\infraestructura\ClienteRecursos.class
-co\vinni\clientes\infraestructura\persistencia\ClientePanache.class

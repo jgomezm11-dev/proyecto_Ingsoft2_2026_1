@@ -50,7 +50,7 @@
       enabled: true
       always-include: true
       path: "/swager-ui"
-      title: "Gestion de clientes demo - Vinni"
+      title: "Gestion de clientes demo - johan"
       description: "API generado en Quarkus para gestion de clientes"
       version: "V1"
       contact-name: ""
